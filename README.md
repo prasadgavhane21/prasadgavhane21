@@ -1,40 +1,257 @@
+<!-- Profile Header -->
+
 <h1 align="center">Hi 👋, I'm Prasad Gavhane</h1>
-<h3 align="center">Transforming Data into Insights with Python, SQL & Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadgavhane21&label=Profile%20views&color=0e75b6&style=flat" alt="prasadgavhane21" /> </p>
+<h3 align="center">
+Data Analyst | Python | SQL | Power BI | Oracle SQL
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadgavhane21" alt="prasadgavhane21" /></a> </p>
-
-- 🔭 I’m currently working on [E-Commerce Sales Analytics](https://github.com/prasadgavhane21/E-Commerce-Sales-Analytics)
-
-- 🌱 I’m currently learning **Data Analytics, Django Framework**
-
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
-
-- 🤝 I’m looking for help with **Advanced Data Analytics**
-
-- 👨‍💻 All of my projects are available at [https://prasadgavhane21.github.io/Portfolio/](https://prasadgavhane21.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [https://github.com/prasadgavhane21](https://github.com/prasadgavhane21)
-
-- 💬 Ask me about **Python, SQL, Data Analytics,& Git**
-
-- 📫 How to reach me **prasadgavhane1307@gmail.com**
-
-- 📄 Know about my experiences [Data Analytics, Python, SQL, Oracle SQL, Data Visualization, and building data-driven projects](Data Analytics, Python, SQL, Oracle SQL, Data Visualization, and building data-driven projects)
-
-- ⚡ Fun fact **I love exploring data and turning messy datasets into useful insights**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prasad gavhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad gavhane" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/prasadgavhane21">
+    <img src="https://komarev.com/ghpvc/?username=prasadgavhane21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/prasadgavhane21?tab=followers">
+    <img src="https://img.shields.io/github/followers/prasadgavhane21?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadgavhane21&show_icons=true&locale=en&layout=compact" alt="prasadgavhane21" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadgavhane21&show_icons=true&locale=en" alt="prasadgavhane21" /></p>
+I'm a **Data Analyst** passionate about transforming raw data into meaningful
+business insights.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgavhane21&" alt="prasadgavhane21" /></p>
+- 📊 Focused on **Data Analytics & Business Intelligence**
+- 🐍 Working with **Python, Pandas & NumPy**
+- 🗄️ Experienced with **SQL, MySQL & Oracle SQL**
+- 📈 Building dashboards and visualizations with **Power BI**
+- 🧹 Interested in **Data Cleaning, EDA & KPI Analysis**
+- 🌱 Currently improving my skills in **Advanced Data Analytics & Django**
+- 💡 I enjoy turning messy datasets into actionable insights
+- 🚀 Always learning by building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
+</a>
+
+<a href="https://seaborn.pydata.org/">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI"/>
+</a>
+
+</p>
+
+### 🗄️ Databases & SQL
+
+<p align="left">
+
+<a href="https://www.oracle.com/database/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle SQL"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
+
+</p>
+
+### 💻 Development & Tools
+
+<p align="left">
+
+<a href="https://www.djangoproject.com/">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 E-Commerce Sales Analytics
+
+**End-to-end data analytics project using Python, SQL, Oracle SQL and Power BI.**
+
+- 📈 Sales & profit analysis
+- 👥 Customer & segment analysis
+- 🌎 Regional performance analysis
+- 📊 Business KPI analysis
+- 📉 Data visualization
+- 🗄️ SQL-based analysis
+
+🔗 **[View Project](https://github.com/prasadgavhane21/E-Commerce-Sales-Analytics)**
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my projects, skills and professional profile.
+
+🔗 **[View Portfolio](https://prasadgavhane21.github.io/Portfolio/)**
+
+---
+
+### 💻 Portfolio Website
+
+A responsive web development project created to showcase projects and technical skills.
+
+🔗 **[View Repository](https://github.com/prasadgavhane21/Portfolio)**
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prasadgavhane21&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgavhane21&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## ⭐ GitHub Statistics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/prasadgavhane21?style=for-the-badge&label=Public%20Repositories" alt="Repositories"/>
+
+<img src="https://img.shields.io/github/stars/prasadgavhane21?style=for-the-badge&label=Stars" alt="Stars"/>
+
+<img src="https://img.shields.io/github/followers/prasadgavhane21?style=for-the-badge&label=Followers" alt="Followers"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=prasadgavhane21&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prasadgavhane21&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=prasadgavhane21&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 📊 GitHub Contribution Overview
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasadgavhane21&theme=default"
+    alt="GitHub Contribution Summary"
+  />
+</p>
+
+---
+
+## 💬 Ask Me About
+
+`Python` • `SQL` • `Oracle SQL` • `Data Analytics` • `Pandas` • `Power BI` • `Git`
+
+---
+
+## 🌱 Currently Learning
+
+**Advanced Data Analytics • Machine Learning • Django • Data Visualization**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/prasad-gavhane-9b7094320">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/prasadgavhane21">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://prasadgavhane21.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+</a>
+
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **prasadgavhane1307@gmail.com**
+
+---
+
+<p align="center">
+  <b>✨ Turning Data into Insights, One Project at a Time ✨</b>
+</p>
