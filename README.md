@@ -222,7 +222,7 @@ A responsive web development project created to showcase projects and technical 
 
 ## 🌱 Currently Learning
 
-**Advanced Data Analytics • Machine Learning • Django • Data Visualization**
+**Advanced Data Analytics  • Django • Data Visualization**
 
 ---
 
